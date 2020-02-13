@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">UnitConverter</string>
+    <string name="symbolF">°F</string>
+    <string name="symbolC">°C</string>
+    <string name="symbolKM">km</string>
+    <string name="symbolM">mile(s)</string>
+    <string name="symbolKG">kg</string>
+    <string name="symbolLB">lb</string>
+    <string name="symbolL">l</string>
+    <string name="symbolG">gallon</string>
+    <string name="fahrenheit">Fahrenheit</string>
+    <string name="celsius">Celsius</string>
+    <string name="litre">Litre</string>
+    <string name="kilometer">kilometer</string>
+    <string name="kilogram">kilogram</string>
+    <string name="lbs">lbs</string>
+    <string name="gallon">Gallon</string>
+    <string name="miles">miles</string>
+</resources>
